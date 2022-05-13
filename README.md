@@ -2,7 +2,8 @@
 - 👀 I’m interested in maths
 - 🌱 I’m currently learning competitive programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord --> Suryam_Kabra#3977
+- 📫 How to reach me Discord --> Suryam#3977
+-
 
 <!---
 SuryamKabra/SuryamKabra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
